@@ -1,0 +1,15 @@
+.carousel-item img {
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
